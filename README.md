@@ -31,7 +31,7 @@ publication:
 
 Just start MATLAB and run the demo script demo_urban.m.
 
-    IMPORTANT: This code requires the MALAB [deep learning toolbox](https://fr.mathworks.com/help/deeplearning/).
+*IMPORTANT*: This code requires the MALAB [deep learning toolbox](https://fr.mathworks.com/help/deeplearning/).
 
 
 
